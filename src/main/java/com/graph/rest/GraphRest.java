@@ -1,7 +1,5 @@
 package com.graph.rest;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.graph.domain.Edge;
 import com.graph.domain.Graph;
 import com.graph.domain.Vertex;
